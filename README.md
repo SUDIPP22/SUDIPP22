@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, I'm Sudip Kumar Panja</h1>
 <h3 align="center">Welcome To My Profile</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipp22" alt="sudipp22" /></a> </p>
-
 - 🔭 I’m currently working on **Spring FrameWork**
 
 - 🌱 I’m currently learning **Java Full Stack With React**
