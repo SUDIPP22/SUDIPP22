@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, I'm Sudip Kumar Panja</h1>
 <h3 align="center">Welcome To My Profile</h3>
 
-- 🔭 I’m currently working on **Spring FrameWork**
+- 🔭 I’m currently working on **Spring FrameWork with Angular**
 
-- 🌱 I’m currently learning **Java Full Stack With React**
+- 🌱 I’m currently learning **Java Full Stack With Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SUDIPP22](https://github.com/SUDIPP22)
 
